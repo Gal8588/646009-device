@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Andrii Grubliak](https://up.htmlacademy.ru/htmlcss/20/user/646009).
-* Наставник: `Владимир Кабыш`.
+* Наставник: `Владимир Кабыш`(https://htmlacademy.ru/profile/kabysh)
 
 ---
 
